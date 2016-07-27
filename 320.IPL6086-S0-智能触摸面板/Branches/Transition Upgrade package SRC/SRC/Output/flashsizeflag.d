@@ -1,0 +1,12 @@
+..\output\flashsizeflag.o: ..\Lib_code\SysHard\FlashSizeFlag.c
+..\output\flashsizeflag.o: ..\Lib_code\SysHard\inc\FlashSizeFlag.h
+..\output\flashsizeflag.o: ..\Lib_code\SysHard\inc\SysHard.h
+..\output\flashsizeflag.o: ..\Lib_code\App\BF_type.h
+..\output\flashsizeflag.o: ..\Lib_code\SysLib\inc\BestFuLib.h
+..\output\flashsizeflag.o: ..\Lib_code\SysHard\inc\flash.h
+..\output\flashsizeflag.o: ..\Core\stm32l1xx.h
+..\output\flashsizeflag.o: ..\Core\core_cm3.h
+..\output\flashsizeflag.o: d:\Keil\ARM\ARMCC\Bin\..\include\stdint.h
+..\output\flashsizeflag.o: ..\Core\core_cmInstr.h
+..\output\flashsizeflag.o: ..\Core\core_cmFunc.h
+..\output\flashsizeflag.o: ..\Core\system_stm32l1xx.h
